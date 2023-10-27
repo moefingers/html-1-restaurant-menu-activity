@@ -88,6 +88,8 @@ th {
 
 .currentNav {
     font-weight:bold;
+    background-color: green;
+    color: beige;
 }
 
 .announcement {
