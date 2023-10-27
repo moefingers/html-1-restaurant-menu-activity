@@ -65,6 +65,7 @@ nav a:hover {
 
 .service {
     display: inline-block;
+    text-align: center;
     background-color: white;
     border: 5px solid green;
     border-radius: 5px;
@@ -83,4 +84,17 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+
+.currentNav {
+    font-weight:bold;
+}
+
+.announcement {
+    width: 100%;
+    color: beige;
+    background-color: green;
+}
+footer p {
+    font-size: 10px;
 }
